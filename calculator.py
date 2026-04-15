@@ -1,3 +1,7 @@
+# https://github.com/zenith9225/lab11-rc-zp.git
+# Partner 1: Zack Phillips
+# Partner 2: Riley Carr
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
